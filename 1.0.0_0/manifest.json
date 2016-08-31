@@ -1,0 +1,15 @@
+{
+   "background": {
+      "scripts": [ "closealltwitch.js" ]
+   },
+   "description": "A Google Chrome Extension to automatically close Twitch tabs when any window navigates to *closealltwitch.tv*.",
+   "icons": {
+      "128": "closealltwitch_128.png",
+      "16": "closealltwitch_16.png",
+      "48": "closealltwitch_48.png"
+   },
+   "manifest_version": 2,
+   "name": "Close All Twitch",
+   "permissions": [ "tabs", "background" ],
+   "version": "1.0.0"
+}
